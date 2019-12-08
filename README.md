@@ -8,18 +8,18 @@ A website for stuff I might be interested in or working on. Currently just playi
 
 ## Starting your first app(name?):
 
-jekyll new AppName
+    jekyll new AppName
 
 ## Running the local server:
 
-bundle exec jekyll serve --watch
+    bundle exec jekyll serve --watch
 
 # Environment Setup
 
 ## Need to install the following:
 
-gem install jekyll bundler 
+    gem install jekyll bundler 
 
 # References 
 
-*://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages
+* https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages
