@@ -1,25 +1,3 @@
-# Ryan Spaulding 
+# Ryan Spaulding GitHub IO Webpage
+For future Ryan if you want to make any changes just edit the index.html page. There is nothing currently fancy about this site.
 
-A website for stuff I might be interested in or working on. Currently just playing around with Jekyl (https://jekyllrb.com)
-
-
-
-# Command Cheatsheet
-
-## Starting your first app(name?):
-
-    jekyll new AppName
-
-## Running the local server:
-
-    bundle exec jekyll serve --watch
-
-# Environment Setup
-
-## Need to install the following:
-
-    gem install jekyll bundler 
-
-# References 
-
-* https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages
